@@ -4,6 +4,13 @@
 
 Building evidence-driven AI, data, developer tooling and distributed systems with a focus on evaluation, reproducibility, operational safety and production engineering.
 
+
+## How to review this portfolio
+
+Each selected repository is structured so a reviewer can understand the problem and engineering thesis in roughly **60–90 seconds**, run a local proof without private credentials where practical, and then follow a short path into architecture, tests and evidence.
+
+Public claims deliberately distinguish **implemented**, **tested**, **demonstrated** and **live/production-verified** behaviour rather than treating them as equivalent.
+
 ## Selected open-source work
 
 | Project | Focus |
@@ -15,6 +22,11 @@ Building evidence-driven AI, data, developer tooling and distributed systems wit
 | [Credential Auditor](https://github.com/duhenri9/Credential-Auditor) | Reachable Git-history credential hygiene with redacted fail-closed reports |
 | [ChainEvidence](https://github.com/duhenri9/ChainEvidence) | Reorg-aware EVM indexing, transactional recovery and verifiable on-chain data lineage |
 | [WM3 Request Protocol](https://github.com/duhenri9/wm3-request-protocol) | Versioned request contracts with source of truth, scope, acceptance and evidence |
+
+
+## Private case study
+
+**Handle This** — outcome-oriented personal operations agent built around persistent Cases, guarded representation approvals, scheduled follow-up and fresh outcome verification. The Product Gold repository remains private; a sanitized reviewer build can be shared on request.
 
 ## Engineering principles
 
